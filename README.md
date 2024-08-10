@@ -3,11 +3,7 @@
 
 ### 👩‍💻As a Data Science intern, I am passionate about leveraging data to drive meaningful insights and solve real-world problems. My journey in data science has been fueled by a deep curiosity and a commitment to continuous learning. I have gained hands-on experience in various facets of data science, including data analysis, machine learning, deep learning, and data visualization.
 
-### At my current internship, I’ve had the opportunity to work on diverse projects, such as developing machine learning models for predictive analytics, implementing YOLOv5 for object detection, and applying NLP techniques for text analysis. My work involves not only building and fine-tuning models but also deploying them to ensure they deliver actionable insights in real-time.
 
-### I am proficient in Python, SQL, and tools like TensorFlow, Scikit-learn, and Pandas. Additionally. My ability to collaborate effectively with cross-functional teams, coupled with my skills in version control using Git, ensures smooth and efficient project execution.
-
-### My goal is to continue honing my skills and contribute to impactful projects in the field of data science. I am eager to explore new opportunities and take on challenges that will help me grow as a data scientist and add value to any organization I work with.
 
 # 🏆 Certifications 
 
